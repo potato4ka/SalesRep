@@ -1,0 +1,28 @@
+{
+  "name": "salesrep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potato4ka/SalesRep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potato4ka/SalesRep/issues"
+  },
+  "homepage": "https://github.com/potato4ka/SalesRep#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-iconfont-css": "^2.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  }
+}
